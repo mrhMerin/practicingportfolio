@@ -68,8 +68,8 @@ article{
 
 /*For the main menubar */
 
-.fa{
-	margin-right: 2px;
+.main_menu .fa{
+	margin-right: 12px;
 }
 .main_menu{
     font-family: Calibri;
